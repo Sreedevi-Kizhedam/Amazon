@@ -7,3 +7,4 @@ Added search filters
 homepage is added. 
 
 Products are displayed
+MergeCheck2
